@@ -645,7 +645,7 @@ def main():
         print("  " + "═"*45)
         
         if SESSION["role"] == "admin":
-            print(" 1. 🎬 Movie Management")
+            print("  1. 🎬 Movie Management")
             print("  2. 🏢 Cinema Room Management")
             print("  3. 📅 Screening Management")
         else:
